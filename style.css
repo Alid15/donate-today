@@ -19,10 +19,7 @@
 .content p{
     font-size: 20px;
 }
-.content{
-    z-index: 1;
-    position: relative;
-}
+
 .fp button{
 
     background-color: rgb(204, 99, 99);
